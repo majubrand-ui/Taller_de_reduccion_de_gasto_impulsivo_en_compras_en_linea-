@@ -1,6 +1,4 @@
-# Taller_de_reduccion_de_gasto_impulsivo_en_compras_en_linea
-
-# Taller de autocontrol frente al gasto impulsivo en compras en línea
+# Taller de reduccion de gasto impulsivo en compras en linea
 
 **Integrantes:** María Juliana Brand Ardila 
 
