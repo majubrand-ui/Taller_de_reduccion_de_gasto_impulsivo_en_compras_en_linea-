@@ -45,7 +45,7 @@ El tablero de GitHub Projects organiza los issues por estado: *Pendiente*, *En c
 
 ## Insumos disponibles
 
-- [Ficha de proyecto v03](docs/02_UCC002_Pro_260922_Ficha_inicial_v03.pdf)
+- [Ficha de proyecto v03](01_Formulacion/02_UCC002_Pro_260922_Ficha_inicial_v03-3.pdf)
 - [Matriz de necesidades de información y evidencia v02](docs/02_UCC002_Pro_260922_Matriz_v02.xlsx)
 - Resultados del diagnóstico pre-taller (Google Forms, 27 sep 2026): sección *Resultados del diagnóstico* de la ficha v03
 - Registro de uso de IA: hoja *Registro IA* de la matriz y sección correspondiente de la ficha v03
