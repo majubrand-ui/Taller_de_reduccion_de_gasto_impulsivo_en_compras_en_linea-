@@ -46,7 +46,7 @@ El tablero de GitHub Projects organiza los issues por estado: *Pendiente*, *En c
 ## Insumos disponibles
 
 - [Ficha de proyecto v03](01_Formulacion/02_UCC002_Pro_260922_Ficha_inicial_v03-3.pdf)
-- [Matriz de necesidades de información y evidencia v02](docs/02_UCC002_Pro_260922_Matriz_v02.xlsx)
+- [Matriz de necesidades de información y evidencia v02](https://github.com/majubrand-ui/Taller_de_reduccion_de_gasto_impulsivo_en_compras_en_linea-/blob/main/01_Formulacion/02_UCC002_Pro_260922_Matriz_v02-2.xlsx)
 - Resultados del diagnóstico pre-taller (Google Forms, 27 sep 2026): sección *Resultados del diagnóstico* de la ficha v03
 - Registro de uso de IA: hoja *Registro IA* de la matriz y sección correspondiente de la ficha v03
 - Fuentes de referencia: Hoyos Orozco & Zarate (2021, CESA); Rodríguez-Orejuela et al. (2020, Revista EAN No. 89); Arango et al. (2024, Banco de la República, Borradores de Economía No. 1281); Orozco-Cabal et al. (2010, BIS-15S); Parrado Corredor et al. (2021); González López & Lemos (2020)
