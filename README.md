@@ -39,7 +39,7 @@ Cada elemento de la matriz de preparación (productos `PROD`, verificaciones `VE
 
 ## Seguimiento del proyecto
 
-[Abrir Project](URL_PROJECT)
+[Abrir Project](https://github.com/users/majubrand-ui/projects/3)
 
 El tablero de GitHub Projects organiza los issues por estado: *Pendiente*, *En curso*, *Validado* y *Listo para GitHub*.
 
